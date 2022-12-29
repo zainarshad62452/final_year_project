@@ -1,8 +1,8 @@
-# buraq
+# Buraq
 
-A new Flutter project.
+A Cab booking app.
 
-## Getting Started
+## Scope
 
 This project is a starting point for a Flutter application.
 
